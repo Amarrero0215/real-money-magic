@@ -6,6 +6,14 @@
 
 ---
 
+> 🛠️ **Forked by [Alex Marrero](https://github.com/Amarrero0215/real-money-magic)** 
+This fork represents my contributions as the lead full-stack developer on the Real Money Magic project.  
+I handled backend architecture (FastAPI, MongoDB), GraphQL schema design, JWT authentication, project dashboard features, and frontend integration using React and TailwindCSS.
+
+Original team project repo: [realmoneymagic-team](https://github.com/JT-code-dev/real-money-magic)
+
+---
+
 ## 🎯 Purpose & Audience
 
 - Designed for the **65% of Americans** living paycheck to paycheck
