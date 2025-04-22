@@ -162,10 +162,9 @@ real-money-magic/
 
 ## 🌐 Deployment
 
-- **Frontend**: [coming soon]
-- **Backend**: [coming soon]
-
-> Add deployment URLs here once Render setup is complete.
+- **Frontend**: [Live StaticSite](https://realmoneymagicfrontend.onrender.com)
+- **Backend**: [Deployed WebService](https://realmoneymagic.onrender.com)
+- **GraphQL Interface**: [Strawberry GraphQL](https://realmoneymagic.onrender.com/graphql)
 
 ---
 
